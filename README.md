@@ -1,4 +1,4 @@
-![logo](https://github.com/farhan-kureshi/Farhan-Kureshi/blob/main/image.jpg)
+![logo](https://github.com/farhan-kureshi/Farhan-Kureshi/blob/main/aipic.jpg)
 <h1 align="center">Hi 👋, I'm Farhan Kureshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
