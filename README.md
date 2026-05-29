@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **kureshif624@gmail.com**
 
-- ⚡ Fun fact **I love coding and chai ☕ at 2 AM**
+- ⚡ Fun Fact **I love coding and chai ☕ at 2 AM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
