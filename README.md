@@ -1,24 +1,28 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Farhan Kureshi**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Farhan+Kureshi;Full-Stack+Web+Developer;Python+Developer;AI%2FML+Enthusiast;Building+Real-World+Applications+%F0%9F%9A%80" />
 
-### 💻 Full-Stack Web Developer &nbsp;|&nbsp; 🐍 Python Developer &nbsp;|&nbsp; 🤖 AI/ML Enthusiast
+<br>
+
+### 💻 Full-Stack Web Developer &nbsp;•&nbsp; 🐍 Python Developer &nbsp;•&nbsp; 🤖 AI/ML Enthusiast
 
 Building real-world web applications and exploring AI-powered solutions.
 
 <br>
 
 <a href="https://github.com/farhan-kureshi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/farhankureshi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-&nbsp;
 <a href="mailto:kureshif624@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=farhan-kureshi&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 
 </div>
 
@@ -26,61 +30,13 @@ Building real-world web applications and exploring AI-powered solutions.
 
 <table>
 <tr>
-<td align="center">
-
-👥  
-**6**  
-Followers
-
-</td>
-
-<td align="center">
-
-👤  
-**11**  
-Following
-
-</td>
-
-<td align="center">
-
-📦  
-**8**  
-Repositories
-
-</td>
-
-<td align="center">
-
-⭐  
-**3**  
-Stars
-
-</td>
-
-<td align="center">
-
-📍  
-**India**  
-Ahmedabad
-
-</td>
-
-<td align="center">
-
-🎓  
-**MCA**  
-2026 – Present
-
-</td>
-
-<td align="center">
-
-💼  
-**Web Developer**  
-ZeniaPex
-
-</td>
+<td align="center"><b>👥</b><br>Followers<br><strong>6</strong></td>
+<td align="center"><b>👤</b><br>Following<br><strong>11</strong></td>
+<td align="center"><b>📦</b><br>Repositories<br><strong>8</strong></td>
+<td align="center"><b>⭐</b><br>Stars<br><strong>3</strong></td>
+<td align="center"><b>📍</b><br>India<br><strong>Ahmedabad</strong></td>
+<td align="center"><b>🎓</b><br>MCA<br><strong>2026–Present</strong></td>
+<td align="center"><b>💼</b><br>Web Developer<br><strong>ZeniaPex</strong></td>
 </tr>
 </table>
 
@@ -91,36 +47,40 @@ ZeniaPex
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="62%" valign="top">
+
+### 🚀 Who I Am
 
 I'm a **Full-Stack Web Developer and MCA student from India**, passionate about building practical web applications, backend systems and AI-powered solutions.
 
-### What I Do
-
 - 💼 Currently working in **Web Development**
 - 🎓 Pursuing **Master of Computer Applications (MCA)**
-- 🐍 Working with **Python Full-Stack Development**
-- ⚛️ Building interfaces with **React.js, JavaScript & Tailwind CSS**
-- ⚙️ Developing backend systems and REST APIs with **Django & Flask**
+- 🐍 Focused on **Python Full-Stack Development**
+- ⚛️ Building modern interfaces with **React.js & JavaScript**
+- ⚙️ Developing backends with **Django & Flask**
+- 🔌 Building and integrating **REST APIs**
 - 🤖 Exploring **AI, Machine Learning & Generative AI**
 - 🗄️ Working with **MySQL & PostgreSQL**
 - 🔧 Using **Git & GitHub** for development and collaboration
-- 🚀 Interested in building scalable and practical software solutions
+- 🚀 Interested in real-world software engineering
 
-> **"Turning ideas into working applications."**
+<br>
+
+> 💡 **Turning ideas into working applications.**
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320">
 
 <br><br>
 
-💻 **Code**  
-💡 **Create**  
-🤖 **Innovate**  
-🚀 **Build**
+<code>💻 Code</code>
+&nbsp;
+<code>🤖 AI</code>
+&nbsp;
+<code>🚀 Build</code>
 
 </td>
 
@@ -138,31 +98,35 @@ I'm a **Full-Stack Web Developer and MCA student from India**, passionate about 
 
 ### 💻 Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,cs,java,php" />
-</p>
+
+<br><br>
 
 ### 🎨 Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs,php" />
-</p>
 
 </td>
 
 <td width="50%" valign="top">
 
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=django,flask,nodejs,php" />
+
+<br><br>
+
 ### 🗄️ Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
 
 ### 🤖 AI / Data
 
@@ -170,11 +134,13 @@ I'm a **Full-Stack Web Developer and MCA student from India**, passionate about 
 `Machine Learning` `Generative AI`  
 `REST APIs` `AI APIs`
 
+</td>
+
+<td valign="top">
+
 ### 🔧 Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
 
 </td>
 
@@ -187,33 +153,37 @@ I'm a **Full-Stack Web Developer and MCA student from India**, passionate about 
 
 <table>
 <tr>
-<td>
 
-### 👨‍💻 Web Developer — ZeniaPex
+<td width="100%">
 
+### 🟢 Web Developer — ZeniaPex
 **2026 – Present**
 
-Working on real-world web development projects and business applications with a focus on modern web technologies, backend integration and practical software solutions.
+Working on real-world web development projects and business applications, focusing on modern web technologies, backend integration and practical software solutions.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td>
 
-### 🐍 Python Full-Stack Developer Intern — Pulse Circle
-
+### 🔵 Python Full-Stack Developer Intern — Pulse Circle
 **Mar 2026 – May 2026**
 
-- Developed RESTful APIs using **Django REST Framework**
-- Built responsive interfaces using **React.js**
-- Integrated **MySQL**
-- Worked with **WebSockets**
-- Integrated **Razorpay payment gateway**
-- Implemented **OTP-based authentication**
-- Collaborated using **Git & GitHub**
+| Area | Work |
+|---|---|
+| ⚙️ Backend | Django REST Framework |
+| ⚛️ Frontend | React.js |
+| 🗄️ Database | MySQL |
+| ⚡ Real-Time | WebSockets |
+| 💳 Payments | Razorpay |
+| 🔐 Authentication | OTP-based authentication |
+| 🔧 Collaboration | Git & GitHub |
 
 </td>
+
 </tr>
 </table>
 
@@ -224,22 +194,22 @@ Working on real-world web development projects and business applications with a 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🎓 Master of Computer Applications
+### 🎓 MCA
 
-**MCA**
+**Master of Computer Applications**
 
 Gujarat Technological University  
 **2026 – Present**
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### 🎓 Bachelor of Computer Applications
+### 🎓 BCA
 
-**BCA**
+**Bachelor of Computer Applications**
 
 Hemchandracharya North Gujarat University  
 **2023 – 2026**
@@ -258,67 +228,109 @@ CGPA: **7.1**
 <table>
 <tr>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 🤖 RitHan AI
+## 🤖 RitHan AI
 
-AI image generation web application.
+AI-powered image generation web application.
 
 **Tech**
 
-`Python`  
-`Flask`  
-`AI APIs`
+`Python` `Flask` `AI APIs`
 
-🔗 [Live Demo](https://rithan-ai.onrender.com)
+**Highlights**
+
+🎨 Text-to-image generation  
+🤖 AI API integration  
+🖼️ Image generation workflow
+
+<br>
+
+<a href="https://rithan-ai.onrender.com">
+<img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/farhan-kureshi/RitHan-AI">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 💕 PulseDate
+## 💕 PulseDate
 
 Full-stack matchmaking platform with authentication and real-time features.
 
 **Tech**
 
-`Python`  
-`Django`  
-`React.js`  
-`MySQL`
+`Python` `Django` `React.js` `MySQL`
 
-🔗 [GitHub](https://github.com/farhan-kureshi/pulse-dating-app)
+**Highlights**
+
+🔐 Authentication  
+👤 User profiles  
+⚡ REST APIs  
+💬 Real-time features
+
+<br>
+
+<a href="https://github.com/farhan-kureshi/pulse-dating-app">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
-<td width="25%" valign="top">
+</tr>
 
-### 🎙️ AI Voice Assistant
+<tr>
 
-AI-powered voice calling assistant for real-time conversations and automated calling workflows.
+<td width="50%" valign="top">
+
+## 🎙️ AI Voice Calling Assistant
+
+AI-powered voice assistant focused on real-time conversations and automated calling workflows.
 
 **Tech**
 
-`Python`  
-`Voice AI`  
-`STT / TTS`  
-`React`  
-`Exotel`
+`Python` `Voice AI` `STT/TTS` `React` `Exotel`
+
+**Focus**
+
+🎙️ Speech processing  
+📞 Voice calling  
+🧠 AI conversation  
+🔄 Real-time interaction  
+🌍 Language handling
+
+<br>
+
+<code>🚧 Currently Building</code>
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-### 🐦 Flappy Bird
+## 🐦 Flappy Bird
 
 2D Python game created to explore programming and game-development fundamentals.
 
 **Tech**
 
-`Python`  
-`Pygame`
+`Python` `Pygame`
 
-🔗 [GitHub](https://github.com/farhan-kureshi/Flappy_Bird)
+**Concepts**
+
+🎮 Game loop  
+💥 Collision detection  
+🏆 Score tracking  
+🧱 Obstacle generation
+
+<br>
+
+<a href="https://github.com/farhan-kureshi/Flappy_Bird">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
@@ -327,101 +339,36 @@ AI-powered voice calling assistant for real-time conversations and automated cal
 
 ---
 
-# 🧠 AI Voice Calling Project
-
-### 🎙️ Voice AI • Real-Time Conversation • Calling
-
-Currently working on an **AI Voice Assistant for calling**, focused on creating natural real-time conversations between users and an AI voice agent.
-
-### Core Areas
-
-- 🎙️ Speech-to-Text
-- 🔊 Text-to-Speech
-- 📞 Voice Calling Integration
-- 🌐 Real-Time Conversation
-- 🧠 AI Conversation Logic
-- 🔄 Continuous Speech Handling
-- 🌍 Multilingual / Language Switching
-- 📡 Calling API Integration
-- 📝 Conversation / Transcript Handling
-
-> **Building voice-first AI experiences for real-world calling workflows.**
-
----
-
-# 📚 Currently Learning
+# 🧠 Currently Learning
 
 <table>
 <tr>
 
-<td align="center">
-
-🐍  
-**Advanced Python**
-
-</td>
-
-<td align="center">
-
-⚙️  
-**Advanced Backend Development**
-
-</td>
-
-<td align="center">
-
-🤖  
-**Machine Learning**
-
-</td>
-
-<td align="center">
-
-🧠  
-**Deep Learning**
-
-</td>
-
-<td align="center">
-
-✨  
-**Generative AI**
-
-</td>
-
-<td align="center">
-
-🚀  
-**AI-powered Full-Stack Applications**
-
-</td>
+<td align="center">🐍<br><b>Advanced<br>Python</b></td>
+<td align="center">⚙️<br><b>Advanced<br>Backend</b></td>
+<td align="center">🤖<br><b>Machine<br>Learning</b></td>
+<td align="center">🧠<br><b>Deep<br>Learning</b></td>
+<td align="center">✨<br><b>Generative<br>AI</b></td>
+<td align="center">🚀<br><b>AI Full-Stack<br>Applications</b></td>
 
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=A371F7&center=true&vCenter=true&width=650&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Exploring+AI-powered+Full-Stack+Development+%F0%9F%9A%80" />
+
+</div>
 
 ---
 
 # 🏆 GitHub Achievements
 
-<table>
-<tr>
+<div align="center">
 
-<td align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=farhan-kureshi&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=4" />
 
-🎯  
-**Quickdraw**
-
-</td>
-
-<td align="center">
-
-🚀  
-**YOLO**
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
@@ -449,7 +396,7 @@ Currently working on an **AI Voice Assistant for calling**, focused on creating 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-kureshi&hide_border=true&theme=github-dark-blue" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-kureshi&theme=github-dark-blue&hide_border=true" width="70%" />
 
 </div>
 
@@ -462,7 +409,9 @@ Currently working on an **AI Voice Assistant for calling**, focused on creating 
 
 <td width="60%" valign="top">
 
-I'm open to collaborating on:
+### 🚀 Open to Collaboration
+
+I'm interested in collaborating on:
 
 - 💻 Full-Stack Web Development
 - 🐍 Python Development
@@ -476,19 +425,19 @@ I'm open to collaborating on:
 <td width="40%" align="center">
 
 <a href="https://github.com/farhan-kureshi">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/farhankureshi">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
 <a href="mailto:kureshif624@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </td>
@@ -500,8 +449,10 @@ I'm open to collaborating on:
 
 <div align="center">
 
-### 💻 Code. Build. Learn. Innovate. 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=%3C+Code.+Build.+Learn.+Innovate.+%2F%3E;%F0%9F%9A%80+Keep+Building+%26+Keep+Learning" />
 
-**Thanks for visiting my GitHub profile!** ⭐
+<br>
+
+⭐ **Thanks for visiting my GitHub profile!**
 
 </div>
