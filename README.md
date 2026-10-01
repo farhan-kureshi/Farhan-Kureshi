@@ -1,43 +1,260 @@
-![logo](https://github.com/farhan-kureshi/Farhan-Kureshi/blob/main/aipic.jpg)
-<h1 align="center">Hi 👋, I'm Farhan Kureshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
+# 👋 Hi, I'm Farhan Kureshi
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+### 💻 Full-Stack Web Developer | 🐍 Python Developer | 🤖 AI/ML Enthusiast
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan-kureshi&label=Profile%20views&color=0e75b6&style=flat" alt="farhan-kureshi" /> </p>
-
-
-
-- 🔭 I’m currently Studying BCA 
-
-- 🌱 **I’m currently learning AI, ML, and Python to build intelligent systems.**
-
-- 👯 I’m looking to collaborate on **Web development & AI/ML projects**
-
-- 🤝 I’m looking for help with **Improving my Machine Learning skills**
-
-- 👨‍💻 All of my projects are available at [https://github.com/farhan-kureshi](https://github.com/farhan-kureshi)
-
-- 💬 Ask me about **How to get started with Web Dev or AI**
-
-- 📫 How to reach me **kureshif624@gmail.com**
-
-- ⚡ Fun Fact **I love coding and chai ☕ at 2 AM**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/farhan_kureshi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="farhan_kureshi7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/farhankureshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farhankureshi" height="30" width="40" /></a>
-<a href="https://instagram.com/farhan_kureshi2607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farhan_kureshi2607" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/farhan-kureshi">
+    <img src="https://img.shields.io/badge/GitHub-Farhan%20Kureshi-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/farhankureshi">
+    <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Kureshi-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kureshif624@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-kureshi&show_icons=true&locale=en&layout=compact" alt="farhan-kureshi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhan-kureshi&show_icons=true&locale=en" alt="farhan-kureshi" /></p>
+## 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-kureshi&" alt="farhan-kureshi" /></p>
+I'm a **Full-Stack Web Developer and MCA student** from India, passionate
+about building real-world web applications and exploring AI-powered solutions.
+
+- 💼 Currently working in **Web Development**
+- 🎓 Pursuing **Master of Computer Applications (MCA)**
+- 🐍 Strong interest in **Python Full-Stack Development**
+- ⚛️ Building modern interfaces with **React.js, JavaScript & Tailwind CSS**
+- ⚙️ Developing backends and REST APIs using **Django & Flask**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
+- 🗄️ Working with **MySQL & PostgreSQL**
+- 🔧 Using **Git & GitHub** for development and collaboration
+- 🚀 Interested in building scalable and practical software solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,cpp,c,cs,java,php" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,php" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🤖 AI / Data
+
+`Python` `Pandas` `NumPy` `Machine Learning` `Generative AI` `REST APIs`
+
+### 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 💼 Experience
+
+### 👨‍💻 Web Developer — ZeniaPex
+
+**2026 – Present**
+
+Working on real-world web development projects and business applications,
+with a focus on modern web technologies, backend integration and practical
+software solutions.
+
+---
+
+### 🐍 Python Full-Stack Developer Intern — Pulse Circle
+
+**Mar 2026 – May 2026**
+
+- Developed RESTful APIs using **Django REST Framework**
+- Built responsive interfaces using **React.js**
+- Integrated **MySQL** database
+- Worked with **WebSockets**
+- Integrated **Razorpay payment gateway**
+- Implemented **OTP-based authentication**
+- Collaborated using **Git & GitHub**
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 RitHan AI — AI Image Generator
+
+AI-powered web application that generates images from text prompts.
+
+### Tech Stack
+
+`Python` `Flask` `REST APIs` `AI APIs`
+
+### Highlights
+
+- 🎨 Text-to-image generation
+- 🤖 AI API integration
+- 🖼️ Image generation workflow
+- 📱 Responsive web interface
+- 🔌 REST API based architecture
+
+🔗 **Live Demo:**  
+https://rithan-ai.onrender.com
+
+---
+
+## 💕 PulseDate — Matchmaking Platform
+
+A full-stack matchmaking web application built during my Python
+Full-Stack development experience.
+
+### Tech Stack
+
+`Python` `Django` `React.js` `MySQL`
+
+### Highlights
+
+- 🔐 Secure authentication
+- 👤 User profile management
+- 💕 Matchmaking functionality
+- ⚡ RESTful APIs
+- 📱 Responsive React interface
+- 🗄️ MySQL database integration
+
+🔗 **GitHub:**  
+https://github.com/farhan-kureshi/pulse-dating-app
+
+---
+
+## 🏢 HRMS / ATS Platform
+
+Working on modern **HRMS and Applicant Tracking System (ATS)** solutions,
+including recruitment workflows, candidate management, interviews,
+offers and business process automation.
+
+### Technologies
+
+`React` `Python` `Node.js` `REST APIs` `Database`
+
+### Areas of Work
+
+- 👥 Candidate Management
+- 📋 Recruitment Pipeline
+- 🎯 ATS & Requirements
+- 📅 Interview Management
+- 📄 Offer Management
+- 📊 HR Reports
+- 🔐 Authentication & Role-based workflows
+- 🤖 AI / Voice-enabled workflows
+
+> Some work is part of professional projects and is therefore not publicly
+> available in this GitHub profile.
+
+---
+
+## 🐦 Flappy Bird
+
+My first Python game project, created to strengthen programming fundamentals
+and understand game development concepts.
+
+### Tech Stack
+
+`Python` `Pygame`
+
+### Concepts
+
+- 🎮 Game loop
+- 🧱 Obstacle generation
+- 💥 Collision detection
+- 🏆 Score tracking
+- 🌍 Gravity-based movement
+
+🔗 **GitHub:**  
+https://github.com/farhan-kureshi/Flappy_Bird
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python
+   ↓
+Advanced Backend Development
+   ↓
+Machine Learning
+   ↓
+Deep Learning
+   ↓
+Generative AI
+   ↓
+AI-powered Full-Stack Applications
+📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=farhan-kureshi&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-kureshi&layout=compact&hide_border=true" height="170"/>
+
+</div>
+
+📈 GitHub Streak
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-kureshi&hide_border=true" />
+
+</div>
+
+🎓 Education
+Master of Computer Applications — MCA
+Gujarat Technological University (GTU)
+2026 – Present
+Bachelor of Computer Applications — BCA
+Hemchandracharya North Gujarat University (HNGU)
+2023 – 2026
+🤝 Let's Connect
+I'm interested in collaborating on:
+💻 Full-Stack Web Development
+🐍 Python Development
+🤖 AI / ML Projects
+⚛️ React Applications
+🚀 Real-World Software Projects  
+
+<a href="https://github.com/farhan-kureshi">
+<img src="https://img.shields.io/badge/GitHub-Farhan%20Kureshi-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/farhankureshi">
+<img src="https://img.shields.io/badge/LinkedIn-Farhan%20Kureshi-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kureshif624@gmail.com">
+<img src="https://img.shields.io/badge/Email-kureshif624%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<div align="center">
+
+💻 Build. Learn. Innovate. 🚀
+⭐ Thanks for visiting my GitHub profile!
+</div>
+```
